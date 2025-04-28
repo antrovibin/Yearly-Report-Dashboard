@@ -33,9 +33,10 @@ Data Fields: **Month, Client, Project, Revenue, GP%, COGS, Status, and more.**
 
 ## Dashboard Preview
 **Overview Page**
-![Page 1 Output](https://raw.githubusercontent.com/antrovibin/Yearly-Report-Dashboard/main/images/Page-1-Output.png)
+![Page 1 Output](https://github.com/antrovibin/Yearly-Report-Dashboard/blob/main/Page%201%20Output.png)
 **Financial Summary**
-![Page 2 Output](https://raw.githubusercontent.com/antrovibin/Yearly-Report-Dashboard/main/images/Page-2-Output.png)
+## Financial Summary
+![Page 2 Output](https://raw.githubusercontent.com/antrovibin/Yearly-Report-Dashboard/main/Page%202%20Output.png)
 
 ## Getting Started
 To explore the dashboard:
