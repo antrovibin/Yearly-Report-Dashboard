@@ -32,10 +32,10 @@ Number of Projects: **50**
 Data Fields: **Month, Client, Project, Revenue, GP%, COGS, Status, and more.**
 
 ## Dashboard Preview
-**Overview Page**
+### Overview Page
 ![Page 1 Output](https://github.com/antrovibin/Yearly-Report-Dashboard/blob/main/Page%201%20Output.png)
-**Financial Summary**
-## Financial Summary
+
+### Financial Summary
 ![Page 2 Output](https://raw.githubusercontent.com/antrovibin/Yearly-Report-Dashboard/main/Page%202%20Output.png)
 
 ## Getting Started
